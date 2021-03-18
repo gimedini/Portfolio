@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/java/web/shop/mall/controller/AdminController.java=UTF-8
+encoding//src/main/java/web/shop/mall/controller/ShopController.java=UTF-8
+encoding//src/main/java/web/shop/mall/persistence/AdminDAO.java=UTF-8
+encoding//src/main/java/web/shop/mall/persistence/AdminDAOImple.java=UTF-8
+encoding//src/main/java/web/shop/mall/persistence/ShopDAO.java=UTF-8
+encoding//src/main/java/web/shop/mall/persistence/ShopDAOImple.java=UTF-8
+encoding//src/main/java/web/shop/mall/service/AdminService.java=UTF-8
+encoding//src/main/java/web/shop/mall/service/AdminServiceImple.java=UTF-8
+encoding//src/main/java/web/shop/mall/service/ShopService.java=UTF-8
+encoding//src/main/java/web/shop/mall/service/ShopServiceImple.java=UTF-8
